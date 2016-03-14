@@ -1,7 +1,7 @@
 name: gsamartzo
 favicon: null
-layout_spectrum: 0.7027264577336609
-typography_spectrum: 0.10453803697600961
+layout_spectrum: 0.31469
+typography_spectrum: 0.51836
 title: gsamartzo
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#64635f'
+    - '#c9c8cd'
+    - '#0c0a0d'
+    - '#fbffff'
+    - '#dc7216'
   brandStrength: 0.012826921651139855
   lightness: 0.12618567841127515
   saturation: 0.9374612849205732
