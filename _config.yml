@@ -1,4 +1,4 @@
-name: gsamartzo
+name: George Samartzopoulos
 favicon: null
 layout_spectrum: 0.31469
 typography_spectrum: 0.51836
@@ -22,8 +22,8 @@ color:
     - '#0c0a0d'
     - '#fbffff'
     - '#dc7216'
-  brandStrength: 0.012826921651139855
-  lightness: 0.12618567841127515
+  brandStrength: 0.125
+  lightness: 0.3125
   saturation: 0.9374612849205732
   rhythmicContrast: 0.3343580348882824
 purpose: []
