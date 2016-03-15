@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[gsamartzo]]></title>
         <description><![CDATA[gsamartzo]]></description>
-        <link>http://gsamartzo.com/</link>
+        <link>https://thegrid.ai/gsamartzo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 21:36:06 GMT</lastBuildDate>
-        <atom:link href="http://gsamartzo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 21:51:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gsamartzo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e0a7fe6-87f8-4193-8d21-fbc0e86156a1.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/gsamartzo/5df6f4bd-6c5c-4dac-bf33-317b232f67b9/index.html</link>
+            <guid isPermaLink="false">5df6f4bd-6c5c-4dac-bf33-317b232f67b9</guid>
+            <pubDate>Tue, 15 Mar 2016 21:50:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e59deaf-e1dc-4138-80a2-f3f26a8c21d5.jpg" alt="" title="">]]></description>
-            <link>http://gsamartzo.com/de7f84a9-c5aa-45ee-81e1-710ce949ffb6/index.html</link>
+            <link>https://thegrid.ai/gsamartzo/de7f84a9-c5aa-45ee-81e1-710ce949ffb6/index.html</link>
             <guid isPermaLink="false">de7f84a9-c5aa-45ee-81e1-710ce949ffb6</guid>
-            <pubDate>Tue, 15 Mar 2016 21:36:05 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 21:43:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
