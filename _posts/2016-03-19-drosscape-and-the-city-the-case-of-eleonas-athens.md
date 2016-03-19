@@ -33,8 +33,8 @@ description: |-
   mobility network which would promote public
   transportation. Finally, it reserves the existing road
   infrastructure and the buildings.
-datePublished: '2016-03-19T18:15:15.797Z'
-dateModified: '2016-03-19T17:44:50.120Z'
+datePublished: '2016-03-19T18:17:59.274Z'
+dateModified: '2016-03-19T18:17:52.820Z'
 title: 'DROSSCAPE & THE CITY THE CASE OF ELEONAS - ATHENS'
 author: []
 sourcePath: _posts/2016-03-19-drosscape-and-the-city-the-case-of-eleonas-athens.md
@@ -76,3 +76,4 @@ environmental pollution of the area and creates a wellarticulated
 mobility network which would promote public
 transportation. Finally, it reserves the existing road
 infrastructure and the buildings.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7837d3d-29b2-43e5-8499-b29171d8c6bc.jpg)
