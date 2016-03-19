@@ -31,18 +31,18 @@ description: |-
   redefine the boundary conditions between the two countries
   with the design of an independent island which improves the
   mobility of people and the exchange of goods.
-datePublished: '2016-03-19T17:15:14.987Z'
-dateModified: '2016-03-19T17:15:08.759Z'
+datePublished: '2016-03-19T17:38:43.077Z'
+dateModified: '2016-03-19T17:38:37.883Z'
 title: LIANTANG - HEUNG YUEN WAI 03 BOUNDARY CONTROL POINT
 author: []
+sourcePath: _posts/2016-03-19-liantang-heung-yuen-wai-03-boundary-control-point.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-liantang-heung-yuen-wai-03-boundary-control-point.md
-published: true
 url: liantang-heung-yuen-wai-03-boundary-control-point/index.html
 _type: Article
 
@@ -72,3 +72,4 @@ types of flora and bacteria. Finally, the proposal aims to
 redefine the boundary conditions between the two countries
 with the design of an independent island which improves the
 mobility of people and the exchange of goods.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6bf182d-5c33-4972-81e5-49c369b8a259.jpg)
