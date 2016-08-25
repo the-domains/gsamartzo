@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: |-
   This project addresses design strategies for the future
@@ -33,18 +32,19 @@ description: |-
   mobility network which would promote public
   transportation. Finally, it reserves the existing road
   infrastructure and the buildings.
-datePublished: '2016-03-19T18:17:59.274Z'
-dateModified: '2016-03-19T18:17:52.820Z'
-title: 'DROSSCAPE & THE CITY THE CASE OF ELEONAS - ATHENS'
+datePublished: '2016-08-25T00:03:30.248Z'
+dateModified: '2016-08-25T00:03:29.576Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-19-drosscape-and-the-city-the-case-of-eleonas-athens.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: true
 url: drosscape-and-the-city-the-case-of-eleonas-athens/index.html
 _type: Article
 
