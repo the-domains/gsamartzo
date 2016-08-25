@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: |-
   Design of a buildings complex which accommodates
@@ -27,18 +26,15 @@ description: |-
   with different construction systems. The metallic structure
   accommodates office and seminar spaces. The concrete
   structure includes the exhibition spaces and the restaurant.
-datePublished: '2016-03-19T17:31:59.177Z'
-dateModified: '2016-03-19T17:31:56.015Z'
-title: 'MIXED USE DEVELOPMENT OFFICE & CULTURAL SPACES'
+datePublished: '2016-08-25T00:01:19.959Z'
+dateModified: '2016-08-25T00:01:19.429Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-19-mixed-use-development-office-and-cultural-spaces.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: true
 url: mixed-use-development-office-and-cultural-spaces/index.html
 _type: Article
 
