@@ -1,20 +1,4 @@
-name: George Samartzopoulos
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.74374
-title: 'George Samartzopoulos | architecture & urbanism'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#64635f'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.875
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: George Samartzopoulos
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: MIXED USE DEVELOPMENT OFFICE & CULTURAL SPACES
+    id: 85f56471-2f79-486e-a6bb-198175505776
+    type: content
+favicon: null
+title: George Samartzopoulos | architecture & urbanism
 purpose: []
