@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: |-
   Masterplan for the boundary control point between the
@@ -31,18 +30,19 @@ description: |-
   redefine the boundary conditions between the two countries
   with the design of an independent island which improves the
   mobility of people and the exchange of goods.
-datePublished: '2016-03-19T17:38:43.077Z'
-dateModified: '2016-03-19T17:38:37.883Z'
-title: LIANTANG - HEUNG YUEN WAI 03 BOUNDARY CONTROL POINT
+datePublished: '2016-08-25T00:09:51.046Z'
+dateModified: '2016-08-25T00:09:48.216Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-19-liantang-heung-yuen-wai-03-boundary-control-point.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: true
 url: liantang-heung-yuen-wai-03-boundary-control-point/index.html
 _type: Article
 
