@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: |-
   The project aims to develop a dense urban fabric in the
@@ -31,18 +30,15 @@ description: |-
   reconstructs the city center and aims to reform the
   surrounding suburbia in the future. It accommodates 15.000
   more inhabitants in the city center than the existing plan.
-datePublished: '2016-03-19T17:09:36.078Z'
-dateModified: '2016-03-19T17:09:27.818Z'
-title: RE – PROVIDENCE
+datePublished: '2016-08-31T15:53:08.232Z'
+dateModified: '2016-08-31T15:53:07.612Z'
+title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-03-19-re-providence.md
-published: true
+authors: []
+publisher: {}
+via: {}
+starred: true
 url: re-providence/index.html
 _type: Article
 
