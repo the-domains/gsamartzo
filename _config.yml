@@ -34,6 +34,9 @@ navigation:
   - name: Urban box
     id: de7f84a9-c5aa-45ee-81e1-710ce949ffb6
     type: content
+  - name: Porto Pool Promenade
+    id: 59a99e3d-8d65-43cb-bf91-19b1ee787e7c
+    type: content
 favicon: null
 title: George Samartzopoulos | architecture & urbanism
 description: ''
