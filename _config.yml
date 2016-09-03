@@ -46,6 +46,9 @@ navigation:
   - name: Boundary Control Point
     id: 3e48197f-3f57-4195-8981-aa70fb73f717
     type: content
+  - name: City Home
+    id: 75a8994a-b706-47e4-901d-f4f96c989db9
+    type: content
 favicon: null
 title: George Samartzopoulos | architecture & urbanism
 description: ''
