@@ -30,17 +30,13 @@ description: |-
   redefine the boundary conditions between the two countries
   with the design of an independent island which improves the
   mobility of people and the exchange of goods.
-datePublished: '2016-08-25T00:09:51.046Z'
-dateModified: '2016-08-25T00:09:48.216Z'
+datePublished: '2016-08-31T15:54:50.413Z'
+dateModified: '2016-08-31T15:54:49.514Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-liantang-heung-yuen-wai-03-boundary-control-point.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 via: {}
 starred: true
 url: liantang-heung-yuen-wai-03-boundary-control-point/index.html
