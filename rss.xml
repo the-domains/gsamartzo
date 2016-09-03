@@ -4,8 +4,15 @@
         <description><![CDATA[George Samartzopoulos | architecture & urbanism]]></description>
         <link>https://thegrid.ai/gsamartzo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 16:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 16:02:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gsamartzo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Elementary school]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35884a7-e78f-442c-9a42-1aaa7af85bae.jpg">]]></description>
+            <link>https://thegrid.ai/gsamartzo/342eb5ef-5d8f-4151-8bce-077aeb683f1a/index.html</link>
+            <guid isPermaLink="false">342eb5ef-5d8f-4151-8bce-077aeb683f1a</guid>
+            <pubDate>Wed, 31 Aug 2016 15:57:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mixed use]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9f7c5f5-b34c-4627-8933-67e8f2b7e796.jpg">]]></description>
@@ -92,13 +99,6 @@ more inhabitants in the city center than the existing plan.</p>]]></description>
             <link>https://thegrid.ai/gsamartzo/drosscape-and-the-city-the-case-of-eleonas-athens/index.html</link>
             <guid isPermaLink="false">4b4ade36-72e9-4006-a5d9-70abdd00f591</guid>
             <pubDate>Thu, 25 Aug 2016 00:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elementary school]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35884a7-e78f-442c-9a42-1aaa7af85bae.jpg">]]></description>
-            <link>https://thegrid.ai/gsamartzo/342eb5ef-5d8f-4151-8bce-077aeb683f1a/index.html</link>
-            <guid isPermaLink="false">342eb5ef-5d8f-4151-8bce-077aeb683f1a</guid>
-            <pubDate>Sat, 19 Mar 2016 17:00:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
