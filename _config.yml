@@ -55,6 +55,9 @@ navigation:
   - name: Elementary school
     id: 342eb5ef-5d8f-4151-8bce-077aeb683f1a
     type: content
+  - name: TV Tower
+    id: 5df6f4bd-6c5c-4dac-bf33-317b232f67b9
+    type: content
 favicon: null
 title: George Samartzopoulos | architecture & urbanism
 description: ''
