@@ -1,4 +1,6 @@
 typography_spectrum: 0.74374
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#64635f'
@@ -19,6 +21,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: null
 name: George Samartzopoulos
 cta:
   domain: null
@@ -59,6 +62,6 @@ navigation:
     id: 5df6f4bd-6c5c-4dac-bf33-317b232f67b9
     type: content
 favicon: null
-title: George Samartzopoulos | architecture & urbanism
+title: architecture & urbanism
 description: portfolio
 purpose: []
