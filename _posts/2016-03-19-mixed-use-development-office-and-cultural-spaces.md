@@ -26,8 +26,8 @@ description: |-
   with different construction systems. The metallic structure
   accommodates office and seminar spaces. The concrete
   structure includes the exhibition spaces and the restaurant.
-datePublished: '2016-08-25T00:01:19.959Z'
-dateModified: '2016-08-25T00:01:19.429Z'
+datePublished: '2016-08-31T15:54:12.369Z'
+dateModified: '2016-08-31T15:54:11.752Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-mixed-use-development-office-and-cultural-spaces.md
