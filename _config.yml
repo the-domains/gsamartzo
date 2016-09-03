@@ -31,6 +31,9 @@ navigation:
   - name: DROSSCAPE & THE CITY THE CASE OF ELEONAS - ATHENS
     id: 4b4ade36-72e9-4006-a5d9-70abdd00f591
     type: content
+  - name: Urban box
+    id: de7f84a9-c5aa-45ee-81e1-710ce949ffb6
+    type: content
 favicon: null
 title: George Samartzopoulos | architecture & urbanism
 description: ''
