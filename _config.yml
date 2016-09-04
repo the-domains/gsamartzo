@@ -28,6 +28,9 @@ navigation:
   - name: portfolio
     id: 5df6f4bd-6c5c-4dac-bf33-317b232f67b9
     type: content
+  - name: portfolio
+    id: 75a8994a-b706-47e4-901d-f4f96c989db9
+    type: content
 favicon: null
 title: architecture & urbanism portfolio
 description: ''
