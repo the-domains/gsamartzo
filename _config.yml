@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: about me
+  - name: portfolio
     url: 'http://gsamar.com'
     type: external
 favicon: null
