@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: portfolio
+  - name: TV-Tower
     id: 5df6f4bd-6c5c-4dac-bf33-317b232f67b9
     type: content
   - name: City Home
