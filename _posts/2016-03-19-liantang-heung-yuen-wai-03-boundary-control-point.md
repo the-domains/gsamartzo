@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T23:24:13.892Z'
+datePublished: '2016-09-02T00:01:57.012Z'
 sourcePath: _posts/2016-03-19-liantang-heung-yuen-wai-03-boundary-control-point.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T23:24:13.287Z'
+dateModified: '2016-09-02T00:01:56.396Z'
 title: Boundary control point
 publisher: {}
 description: ''
