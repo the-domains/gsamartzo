@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: portfolio
-    url: 'http://gsamar.com'
-    type: external
 favicon: null
 title: architecture & urbanism portfolio
 description: ''
