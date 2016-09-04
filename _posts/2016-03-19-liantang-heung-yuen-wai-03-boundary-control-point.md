@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T23:21:25.863Z'
+datePublished: '2016-09-01T23:24:13.892Z'
 sourcePath: _posts/2016-03-19-liantang-heung-yuen-wai-03-boundary-control-point.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T23:21:25.256Z'
-title: ''
+dateModified: '2016-09-01T23:24:13.287Z'
+title: Boundary control point
 publisher: {}
-description: Boundary control point
+description: ''
 inLanguage: null
 inNav: true
 starred: true
@@ -18,7 +18,7 @@ url: liantang-heung-yuen-wai-03-boundary-control-point/index.html
 _type: Article
 
 ---
-Boundary control point
+# Boundary control point
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2de9786a04e8a23425cb01c07e6dc0c3191317d.jpg)
 
 Boundary control point
