@@ -31,6 +31,9 @@ navigation:
   - name: City Home
     id: 75a8994a-b706-47e4-901d-f4f96c989db9
     type: content
+  - name: Porto pool promenade
+    id: 59a99e3d-8d65-43cb-bf91-19b1ee787e7c
+    type: content
   - name: Transformable surface
     id: 2beabcb0-68ac-4fa2-838b-827d01ea21ae
     type: content
@@ -42,9 +45,6 @@ navigation:
     type: content
   - name: Re – Providence
     id: a7715fd6-b308-4db8-97c9-d4b13b18e58f
-    type: content
-  - name: Porto pool promenade
-    id: 59a99e3d-8d65-43cb-bf91-19b1ee787e7c
     type: content
   - name: Urban box
     id: de7f84a9-c5aa-45ee-81e1-710ce949ffb6
