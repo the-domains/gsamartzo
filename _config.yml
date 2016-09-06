@@ -43,11 +43,11 @@ navigation:
   - name: Drosscape & the city the case of Eleonas - Athens
     id: 4b4ade36-72e9-4006-a5d9-70abdd00f591
     type: content
-  - name: Re – Providence
-    id: a7715fd6-b308-4db8-97c9-d4b13b18e58f
-    type: content
   - name: Urban box
     id: de7f84a9-c5aa-45ee-81e1-710ce949ffb6
+    type: content
+  - name: Re – Providence
+    id: a7715fd6-b308-4db8-97c9-d4b13b18e58f
     type: content
   - name: Mixed use
     id: 5b15a48e-66cd-4457-a44d-33652f7c7892
